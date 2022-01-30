@@ -5,7 +5,7 @@ SourcePath=..\Src
 SourceFiles=gpio.c;stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
 #text
 while(1)
-
+while an
 [PreviousLibFiles]{}
 
 wakfwjm
